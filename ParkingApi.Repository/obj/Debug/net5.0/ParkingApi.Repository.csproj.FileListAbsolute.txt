@@ -1,0 +1,15 @@
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Repository.deps.json
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Repository.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\bin\Debug\net5.0\ref\ParkingApi.Repository.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Repository.pdb
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Model.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Model.pdb
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.csproj.AssemblyReference.cache
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.AssemblyInfoInputs.cache
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.AssemblyInfo.cs
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.csproj.CopyComplete
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ref\ParkingApi.Repository.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.pdb

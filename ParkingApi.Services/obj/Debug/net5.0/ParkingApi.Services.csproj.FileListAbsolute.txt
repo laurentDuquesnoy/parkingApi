@@ -1,0 +1,17 @@
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\bin\Debug\net5.0\ParkingApi.Services.deps.json
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\bin\Debug\net5.0\ParkingApi.Services.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\bin\Debug\net5.0\ref\ParkingApi.Services.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\bin\Debug\net5.0\ParkingApi.Services.pdb
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ParkingApi.Services.csproj.AssemblyReference.cache
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ParkingApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ParkingApi.Services.AssemblyInfoInputs.cache
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ParkingApi.Services.AssemblyInfo.cs
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ParkingApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ParkingApi.Services.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ref\ParkingApi.Services.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ParkingApi.Services.pdb
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\bin\Debug\net5.0\ParkingApi.Model.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\bin\Debug\net5.0\ParkingApi.Repository.dll
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\bin\Debug\net5.0\ParkingApi.Model.pdb
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\bin\Debug\net5.0\ParkingApi.Repository.pdb
+C:\Users\laure\Downloads\dynamicWebExam\exam\ParkingApi\ParkingApi.Services\obj\Debug\net5.0\ParkingApi.Services.csproj.CopyComplete
